@@ -1,6 +1,6 @@
 ## Olá Meu Nome é Bruno 👨‍💻
 
-Sou desenvolvedor Back-End, atualmente estou estudando e trilhando meu caminho na [@cubosAcademy]()
+Sou desenvolvedor Back-End e estudante de Cybersec na FIAP
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bruno-BarretoP&show_icons=true&theme=radical)
 
